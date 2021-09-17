@@ -1,0 +1,26 @@
+PODS:
+  - BottomPopup (0.4.1)
+  - IHKeyboardAvoiding (4.6)
+  - SwiftyContacts (3.0.11):
+    - SwiftyContacts/Core (= 3.0.11)
+  - SwiftyContacts/Core (3.0.11)
+
+DEPENDENCIES:
+  - BottomPopup
+  - IHKeyboardAvoiding
+  - SwiftyContacts
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BottomPopup
+    - IHKeyboardAvoiding
+    - SwiftyContacts
+
+SPEC CHECKSUMS:
+  BottomPopup: 052f0ea8bb1110d633e66529cbb07b8599eb227d
+  IHKeyboardAvoiding: 2a664fdb5f964359fa7ec8fc5c9aebb447583ff8
+  SwiftyContacts: 3b38d400d2480e8a2323194f3f8fcf6b317d8147
+
+PODFILE CHECKSUM: bc414fd38a0f111264ba294ff84004febbe2beb9
+
+COCOAPODS: 1.6.0
